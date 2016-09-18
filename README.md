@@ -5,4 +5,4 @@
 
 部分效果图如下：
 
-![](https://github.com/LoveMeiM/Draw-Core-Graphics/raw/master/效果.gif)
+![](https://github.com/LoveMeiM/Draw-CAShapeLayer/raw/master/效果.gif)
